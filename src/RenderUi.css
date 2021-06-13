@@ -22,7 +22,7 @@ body {
       #240060 360deg
     );
   background-blend-mode: soft-light, soft-light, overlay, screen, normal;
-  min-height: 500px;
+  min-height: 800px;
 }
 
 .GlassMorphism {
