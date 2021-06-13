@@ -1,0 +1,24 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: block;
+}
+
+.footer > ul {
+  text-decoration: none;
+  list-style: none;
+}
+
+.footer > ul > li {
+  display: inline;
+  text-decoration: none;
+  margin-right: 100px;
+}
+
+.footer > ul > li > a {
+  cursor: pointer;
+  display: inline;
+  justify-content: space-around;
+  text-decoration: none;
+}
